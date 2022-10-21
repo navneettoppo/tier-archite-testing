@@ -1,2 +1,2 @@
 ##
-# Create you Terraform-azure.pem fil
+# Create you Terraform-azure.pem file
